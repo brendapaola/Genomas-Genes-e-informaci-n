@@ -1,0 +1,5 @@
+Largo Genoma: 1934644, CDS: 1726869
+Prop CDs: 0.8926029801865356
+Proporciones usadas para graficar: 
+genoma: 77, usando el 0.004/100 %
+CDs: 69, usando el 0.004/100 %
